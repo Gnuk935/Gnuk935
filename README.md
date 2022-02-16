@@ -23,6 +23,6 @@
   <a href="https://www.facebook.com/victor.barrosdemoraescarvalho.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://www.tiktok.com/@gnuk_935?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
  
- ![Snake animation]()
+ ![Snake animation](https://github.com/Gnuk935/Gnuk935/blob/main/.github/workflows/main.yml)
  
 </div>
