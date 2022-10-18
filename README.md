@@ -10,7 +10,7 @@
   <img align="center" alt="Gnuk-Js" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
   <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="right" alt="Gnuk" height="150" style="border-radius:50px;" src="https://github.com/Gnuk935/Gnuk935/blob/main/20211115_072622.jpg">
+  <!--<img align="right" alt="Gnuk" height="150" style="border-radius:50px;" src="https://github.com/Gnuk935/Gnuk935/blob/main/20211115_072622.jpg">-->
   
 </div>
   
