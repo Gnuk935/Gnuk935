@@ -20,8 +20,5 @@
  <a href="https://discord.gg/BSmDGtde" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Gnuk935/Gnuk935/blob/output/github-contribution-grid-snake.svg)
-
-<img height="500" width="500" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
  
 </div>
