@@ -9,5 +9,10 @@
   <img align="center" alt="Gnuk-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gnuk-Js" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
   <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+  <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+  <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="Gnuk-Java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
